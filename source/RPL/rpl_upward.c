@@ -34,6 +34,7 @@
 #include "randLIB.h"
 #include "nsdynmemLIB.h"
 #include <string.h>
+#include <stdarg.h>
 #include "ip6string.h"
 
 #include "net_interface.h"

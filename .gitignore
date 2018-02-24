@@ -71,3 +71,4 @@ yotta_targets
 build
 html
 site
+/build
